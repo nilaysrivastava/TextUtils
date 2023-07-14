@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bg-body-tertiary {
+  --bs-bg-opacity: 1;
+  background-color: rgb(13 110 253);
+}
