@@ -22,29 +22,6 @@ TextUtils is a versatile online text editor designed to empower users with power
 
 <img width="480" alt="Screenshot 2024-06-09 at 7 40 00 PM" src="https://github.com/nilaysrivastava/ClientTrack-Dashboard/assets/139038819/5ff3270f-ebf3-4a41-8a36-c7dbcaee46b4">
 
-## Installation
-
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/your-username/textutils.git
-    ```
-2. **Navigate to the project directory:**
-    ```sh
-    cd textutils
-    ```
-3. **Install the dependencies:**
-    ```sh
-    npm install
-    ```
-4. **Start the development server:**
-    ```sh
-    npm start
-    ```
-
-## Usage
-
-Once the development server is running, you can access the TextUtils application in your web browser at `http://localhost:3000`. 
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or issues, feel free to open an issue or create a pull request. Please ensure your code follows the project's coding standards and conventions.
